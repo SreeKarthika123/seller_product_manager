@@ -18,7 +18,7 @@ This is a responsive and modular Seller Dashboard built using **React + TypeScri
   - Category
   - Stock
   - Image URL
-- Adds the new product dynamically to the list (no backend required).
+- Adds the new product dynamically to the list.
 
 ---
 
@@ -40,5 +40,14 @@ This is a responsive and modular Seller Dashboard built using **React + TypeScri
 API Used
 DummyJSON Products API
 Endpoint: https://dummyjson.com/products
+
+**Screenshots of app:**
+
+![ss1](https://github.com/user-attachments/assets/d0bc3ce0-788c-4f6c-89fc-18fb301cdab1)
+![ss2](https://github.com/user-attachments/assets/beee783f-151a-464c-a401-4c19da789509)
+![ss3](https://github.com/user-attachments/assets/f4131be7-39e6-4eab-85ac-83da5c798b51)
+
+
+
 
 
